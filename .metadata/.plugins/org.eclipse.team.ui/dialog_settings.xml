@@ -8,6 +8,7 @@
 		<item value="org.eclipse.egit.ui.modelCompareParticipant" key="lastactiveparticipant_id"/>
 		<item value="false" key="linkWithEditor"/>
 		<section name="org.eclipse.egit.ui.modelCompareParticipant.1432012723655">
+			<item value="org.eclipse.egit.ui.changeSetModel" key="org.eclipse.team.ui.activeModelProvider"/>
 		</section>
 	</section>
 	<section name="SynchronizeWizard">

@@ -1,2 +1,8 @@
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Git Configuration&\#x0A;I have changed nothing but set up all of the Git configuration.&\#x0A;&\#x0A;Signed-off-by\: EricHsu &lt;zx327@nyu.edu&gt;&\#x0A;</message>\r\n</messages>
+BranchProjectTracker__D\:\\GitHub\\LeetCode\\.git_3cb216749b8e923fbf2d8d7696d3100b9770fd40=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="3cb216749b8e923fbf2d8d7696d3100b9770fd40">\r\n<project>\\InorderTraversal</project>\r\n<project>\\PreorderTraversal</project>\r\n</projects>
+BranchProjectTracker__D\:\\GitHub\\LeetCode\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>\\InorderTraversal</project>\r\n<project>\\PreorderTraversal</project>\r\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>This is the latest version of all files.&\#x0A;&\#x0A;Signed-off-by\: EricHsu &lt;zx327@nyu.edu&gt;&\#x0A;</message>\r\n<message>Git Configuration&\#x0A;I have changed nothing but set up all of the Git configuration.&\#x0A;&\#x0A;Signed-off-by\: EricHsu &lt;zx327@nyu.edu&gt;&\#x0A;</message>\r\n</messages>
 eclipse.preferences.version=1
+org.eclipse.egit.ui.githistorypage.showallfilter=SHOWALLREPO
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
+sync_view_last_selected_model=org.eclipse.egit.ui.changeSetModel
